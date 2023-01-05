@@ -1,6 +1,6 @@
 {
   "name": "react-some-useful-hooks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "just a lib for useful hooks",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
